@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Almaas Taj</h1>
-<h2 align="center">Software Developer</h2>
+<h1 align="center">Hi there👋, I'm Almaas Taj</h1>
 
 I'm a **Software Engineer** from **India** and I love to create beautiful and functional websites. I am passionate about building the tools that redefine the boundaries of what's possible.
 
@@ -17,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al&label=Profile%20views&color=0e75b6&style=flat" alt="almaastaj" /> &nbsp;&nbsp;
-<a href="https://leetcode.com/almaastaj123/" target="_blank" ><i class="fa-solid fa-laptop-code fa-2xl"></i></a>&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almaastaj&label=Profile%20views&color=0e75b6&style=flat" alt="almaastaj" /> &nbsp;&nbsp;
+<a href="https://leetcode.com/u/almaastaj123/"><img alt="Twitter" src="https://img.shields.io/badge/LeetCode-AlmaasTaj-blue"></a>
 </p>
 
 ## GitHub Profile Trophy
@@ -40,6 +39,8 @@ Here are some ideas to get you started:
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
  </p>
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+
 ## GitHub Analytics
 
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaastaj&exclude_repo=IndianStockMarket)
@@ -50,8 +51,8 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-<p>
-<a href="https://www.linkedin.com/in/almaas-taj/" target="_blank" ><i class="fa-brands fa-linkedin fa-2xl"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:almaastaj123@gmail.com" target="_blank" ><i class="fa-solid fa-envelope fa-2xl"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/AlmaasAcademy" target="_blank" ><i class="fa-brands fa-twitter fa-2xl"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+<a href="https://almaastaj.github.io/PortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/website-PortfolioWebsite-green"></a>
+<a href="https://www.linkedin.com/in/almaas-taj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Almaas.Taj-blue"></a>
+<a href="https://twitter.com/AlmaasAcademy"><img alt="Twitter" src="https://img.shields.io/badge/twitter-AlmaasTaj-blue"></a>
 </p>
