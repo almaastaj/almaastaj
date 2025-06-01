@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 -   🤔 &nbsp; Software Developer working in India.
--   🌱 &nbsp; Learning more about Entrepreneurship, Software Development, Automations and Algorithms.
+-   🌱 &nbsp; Learning more about Entrepreneurship, Software Development, Algorithms & AI.
 -   ⚡️ &nbsp; Fun fact: I like playing cricket.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaastaj&label=Profile%20views&color=0e75b6&style=flat" alt="almaastaj" /> &nbsp;&nbsp;
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ## GitHub Profile Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=almaastaj&theme=monokai&rank=-?)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=almaastaj&theme=monokai&rank=-C&rank=-?&noframes=true&column=4&margin-w=15&margin-h=15)
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Programming Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -48,16 +48,19 @@ Here are some ideas to get you started:
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
  </p>
  
-**Tools**
+### Tools  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**Frontend**  
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)
 
-**Programming Languages**  
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
 
-**Database**  
+### Database
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDb)
 
 ## GitHub Analytics
@@ -68,7 +71,7 @@ Here are some ideas to get you started:
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=almaastaj)
 
-## Connect with me:
+### Connect with me 👇:
 
 <p align="left">
 <a href="https://almaastaj.github.io/PortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/website-PortfolioWebsite-green"></a>
