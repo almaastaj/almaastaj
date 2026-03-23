@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
--   🤔 &nbsp; Software Developer working in India.
--   🌱 &nbsp; Learning more about Entrepreneurship, Software Development, Algorithms & AI.
--   ⚡️ &nbsp; Fun fact: I like playing cricket.
+- 🤔 &nbsp; Software Developer working in India.
+- 🌱 &nbsp; Learning more about Entrepreneurship, Software Development, Algorithms & AI.
+- ⚡️ &nbsp; Fun fact: I like playing cricket.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaastaj&label=Profile%20views&color=0e75b6&style=flat" alt="almaastaj" /> &nbsp;&nbsp;
 <a href="https://leetcode.com/u/almaastaj123/"><img alt="Twitter" src="https://img.shields.io/badge/LeetCode-AlmaasTaj-blue"></a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## GitHub Profile Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=almaastaj&theme=monokai&rank=-C&rank=-?&noframes=true&column=4&margin-w=15&margin-h=15)
+![GitHub Trophy](https://gh-trophy.cdnsoft.net/?username=almaastaj&theme=monokai&rank=S,A,B&noframes=true&column=4&margin-w=15&margin-h=15)
 
 <h2 align="left">Programming Languages and Tools:</h2>
 <p align="left"> 
