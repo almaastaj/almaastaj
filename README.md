@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## GitHub Analytics
 
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaastaj&exclude_repo=IndianStockMarket)
+![GitHub Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=almaastaj&exclude_repo=IndianStockMarket&hide=html,css&langs_count=8&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almaastaj&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=almaastaj&show_icons=true&locale=en&&hide=issues,contribs&rank_icon=github&border_radius=10)
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=almaastaj)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=almaastaj&border_radius=10)
 
 ### Connect with me 👇:
 
