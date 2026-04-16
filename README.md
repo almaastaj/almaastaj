@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![GitHub Trophy](https://gh-trophy.cdnsoft.net/?username=almaastaj&theme=monokai&rank=S,A,B&noframes=true&column=4&margin-w=15&margin-h=15)
 
 <h2 align="left">Programming Languages and Tools:</h2>
-<p align="left"> 
+<!-- <p align="left">  -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>   
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>  
  </div>
- </p>
+ <!-- </p> -->
  
 ### Tools  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
